@@ -4,6 +4,8 @@
     "type": "module",
     "scripts": {
         "build": "vite build",
+        "build:client": "vite build",
+        "preview": "vite preview",
         "dev": "vite"
     },
     "devDependencies": {
